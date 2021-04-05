@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jravolio
+- 👀 I’m interested in all languages and tecnologies
+- 🌱 I’m currently learning python
+- 📫 How to reach me jravolio892@gmail.com

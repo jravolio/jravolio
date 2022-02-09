@@ -11,7 +11,7 @@
 
 ### :outbox_tray: 2021 Goals: create new projects and find a job.
 
- 
+ [![Spotify](https://jravolio.vercel.app/api/spotify)](https://open.spotify.com/user/jravolio)
 
 ## About me
 

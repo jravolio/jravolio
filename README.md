@@ -1,5 +1,7 @@
+<div align="center">
+<h1> 🎉 Hello World, i'm Julio! </h1>
+</div>
 
-## 🎉 Hello World, i'm Julio!
 
 
 ### 📖 I'm currently learning:

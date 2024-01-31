@@ -9,9 +9,8 @@
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47zj7sjvbd5imqv1yvaujzcbvbqg9up5do44cbif14&rid=giphy.gif&ct=g" width="500" height="320" />
 
 ### ✉ Reach me!
-
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jravolio)](https://github.com/jravolio)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-cesar-junior-0042231b2/)](https://www.linkedin.com/in/julio-cesar-junior-0042231b2/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-cesar-junior-0042231b2/)](https://www.linkedin.com/in/julio-cesar-avolio/)
 [![Portifolio Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white=https://devjravolio.com/)](https://devjravolio.com/)
 
 
